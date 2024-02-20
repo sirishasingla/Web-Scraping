@@ -1,0 +1,751 @@
+number,text
+1,the multiplicative identity
+2,the only number x such that the sum of the reciprocals of the powers of x equals itself
+3,the first unique prime due to the properties of its reciprocal
+4,the first positive non-Fibonacci number
+5,also the number of Platonic solids
+6,"the second smallest composite number, its proper divisors being 1, 2 and 3"
+7,the sum of any two opposite sides on a standard six-sided die
+8,"all powers of 2 ;(2x), have an aliquot sum of one less than themselves"
+9,"a composite number, its proper divisors being 1 and 3"
+10,the smallest number whose status as a possible friendly number is unknown
+11,the 5th smallest prime number
+12,"a superfactorial, being the product of the first three factorials"
+13,the number of Archimedian solids
+14,the base of the tetradecimal notation
+15,a repdigit in binary (1111)
+16,"the only integer that equals mn and nm, for some unequal integers m and n (m = 4, n = 2, or vice versa)"
+17,"the tenth Perrin number, preceded in the sequence by 7, 10, 12"
+18,the only positive number that is twice the sum of its digits
+19,the 8th smallest prime number
+20,the 4th composite number in the 7-aliquot tree
+21,"the smallest natural number that is not close to a power of 2, 2^n, where the range of closeness is +- n"
+22,"an even composite number, its proper divisors being 1, 2 and 11"
+23,a Wedderburn–Etherington number
+24,the largest number divisible by all numbers less than its square root
+25,the smallest aspiring number — a composite non-sociable number whose aliquot sequence does not terminate
+26,a repdigit in base three (222) and in base twelve (22)
+27,the largest number that is the sum of the digits of its cube
+28,the only positive integer that has a unique Kayles nim-value
+29,"a Perrin number, preceded in the sequence by 12, 17, 22"
+30,a primorial and is the smallest Giuga number
+31,"a repdigit in base 5 (111), and base 2 (11111)"
+32,the smallest non-trivial 5^{th} power
+33,the eighth distinct semiprime comprising the prime factors (3 • 11)
+34,the smallest number with the property that it and its neighbors have the same number of divisors
+35,the highest number one can count to on one's fingers using base 6
+36,the number of inches in a yard
+37,the maximum number of 5^{th} powers needed to sum to any number
+38,the largest even number which cannot be written as the sum of two odd composite numbers
+39,an aliquot sum of 17 which is itself a prime
+40,the only number whose letters are in alphabetical order
+41,"the sum of two squares, 42 + 52"
+42,the 5^{th} Catalan number
+43,the largest natural number that is not an (original) McNugget number
+44,"a tribonacci number, a happy number, an octahedral number and a palindromic number"
+45,"the sixth positive integer with a prime factorization of the form p2q, with p and q being prime"
+46,the number of different arrangements (up to rotation and reflection) of 9 non-attacking queens on a 9×9 chessboard
+47,a strictly non-palindromic number
+48,in abundance having an aliquot sum of 76
+49,the square of seven and is therefore the fourth squared prime number
+50,the smallest number that can be written as the sum of of 2 squares in 2 ways
+51,the 6^{th} Motzkin number
+52,the 5^{th} Bell number
+53,the only two digit number that is reversed in hexadecimal
+54,the smallest number that can be written as the sum of 3 squares in 3 ways
+55,"a semiprime, being the product of 5 and 11 and it is the 2nd member of the (5.q) semiprime family"
+56,"the sum of the first six triangular numbers (making it a tetrahedral number), as well as the sum of six consecutive primes (3 + 5 + 7 + 11 + 13 + 17)"
+57,the sixteenth discrete semiprime and the sixth in the (3.q) family
+58,an aliquot sum of 32 and is the second composite member of the 83-aliquot tree
+59,the number of stellations of an icosahedron
+60,the smallest number divisible by 1 through 6
+61,"the sum of two squares, 52 + 62, and it is also a centered square number, a centered hexagonal number and a centered decagonal number"
+62,the smallest number that can be written as the sum of of 3 distinct squares in 2 ways
+63,the number of partially ordered sets of 5 elements
+64,the smallest number with 7 divisors
+65,this number is also the magic constant of n-Queens Problem for n = 5
+66,the number of 8-iamonds
+67,the smallest number which is palindromic in bases 5 and 6
+68,the 2-digit string that appears latest in the decimal expansion of p
+69,a value of n where n^{2} and n^{3} together contain each digit once
+70,the smallest weird number
+71,a centered heptagonal number
+72,"the sum of four consecutive primes (13 + 17 + 19 + 23), as well as the sum of six consecutive primes (5 + 7 + 11 + 13 + 17 + 19)"
+73,the smallest prime congruent to 1 modulo 24
+74,the number of different non-Hamiltonian polyhedra with a minimum number of vertices
+75,the number of orderings of 4 objects with ties allowed
+76,an automorphic number
+77,the largest number that cannot be written as a sum of distinct numbers whose reciprocals sum to 1
+78,"a triangular number, and its factorization makes it a sphenic number"
+79,the smallest prime number p for which the real quadratic field Q has class number greater than 1 (namely 3)
+80,the smallest number n where n and n+1 are both products of 4 or more primes
+81,the square of the sum of its digits
+82,the number of 6-hexes
+83,the sum of three consecutive primes (23 + 29 + 31) as well as the sum of five consecutive primes (11 + 13 + 17 + 19 + 23)
+84,the largest order of a permutation of 14 elements
+85,"an octahedral number, a centered triangular number, a centered square number, a decagonal number, and a Smith number"
+86,"a semiprime, nontotient, a noncototient, a happy number, and a self number"
+87,the twenty-sixth distinct semiprime and the eighth of the form (3.q)
+88,one of only 2 numbers known whose square has no isolated digits
+89,"also a Markov number, appearing in solutions to the Markov Diophantine equation with other odd-indexed Fibonacci numbers"
+90,the number of degrees in a right angle
+91,the twenty-seventh distinct semiprime and the second of the form (7.q)
+92,the number of different arrangements of 8 non-attacking queens on an 8×8 chessboard
+93,the twenty-eighth distinct semiprime and the ninth of the form (3.q)
+94,the twenty-ninth distinct semiprime and the fourteenth of the form (2.q)
+95,the number of planar partitions of 10
+96,the smallest number that can be written as the difference of 2 squares in 4 ways
+97,the tenth member of the Mian–Chowla sequence
+98,a Wedderburn-Etherington number and a nontotient
+99,"the ninth repdigit, a palindromic number and a Kaprekar number"
+100,the square of 10 (in scientific notation it is written as 102)
+101,a centered decagonal number
+102,an abundant number and semiperfect number
+103,a strictly non-palindromic number
+104,"the smallest known number of unit line segments that can exist in the plane, 4 touching at every vertex"
+105,the largest number n known with the property that n - 2^{k} is prime for k>1
+106,the thirty-first distinct biprime and the fifteenth of the form (2.q)
+107,the exponent of a Mersenne prime
+108,the equation results in the Golden ratio
+109,"the smallest factor of one more than the product of the first twenty-three terms of the Euclid–Mullin sequence, making it the twenty-fourth term"
+110,the side of the smallest square that can be tiled with distinct integer-sided squares
+111,the smallest possible magic constant of a 3×3 magic square of distinct primes
+112,an abundant number and a heptagonal number
+113,a highly cototient number and a centered square number
+114,"an abundant number, a sphenic number and a Harshad number"
+115,a heptagonal pyramidal number and a lucky number
+116,a value of n for which n!
+117,the smallest possible length of the longest side of a Heronian tetrahedron (one whose sides are all rational numbers)
+118,the smallest number that has 4 different partitions into 3 parts with the same product
+119,"a Perrin number, preceded in the sequence by 51, 68, 90 (it is the sum of the first two mentioned)"
+120,"the first multiply perfect number of order three (a 3-perfect number, triperfect)"
+121,a square and is the sum of three consecutive primes (37 + 41 + 43)
+122,the smallest number n>1 so that n concatenated with n-1 0's concatenated with the reverse of n is prime
+123,the 10^{th} Lucas number
+124,the smallest number with the property that its first 3 multiples contain the digit 2
+125,the only number known that contains all its proper divisors as proper substrings
+126,"a pentagonal pyramidal number, and a decagonal number as well as a pentatope number"
+127,a centered hexagonal number
+128,the only 3-digit number that is a 7th power
+129,a repdigit in base 6 (333)
+130,the number of functions from 6 unlabeled points to themselves
+131,"a Sophie Germain prime, the second 3-digit palindromic prime, and also a permutable prime with 113 and 311"
+132,the sixth Catalan number
+133,an n whose divisors (excluding n itself) added up divide φ(n)
+134,_{8}C_{1} + _{8}C_{3} + _{8}C_{4}
+135,1^{1} + 3^{2} + 5^{3}
+136,the sum of the cubes of the digits of the sum of the cubes of its digits
+137,a strictly non-palindromic number and a primeval number
+138,the sum of four consecutive primes (29 + 31 + 37 + 41)
+139,a strictly non-palindromic number
+140,an abundant number and a harmonic divisor number
+141,the sixth hendecagonal (11-gonal) number
+142,the number of planar graphs with 6 vertices
+143,"the sum of three consecutive primes (43 + 47 + 53), as well as the sum of seven consecutive primes (11 + 13 + 17 + 19 + 23 + 29 + 31)"
+144,the smallest number with exactly 15 divisors
+145,a pentagonal number and a centered square number
+146,a repdigit in base 8 (222)
+147,the number of sided 6-hexes
+148,the second number to be both a heptagonal number and a centered heptagonal number (the first is 1)
+149,the smallest number whose square begins with three 2's
+150,the sum of eight consecutive primes (7 + 11 + 13 + 17 + 19 + 23 + 29 + 31)
+151,"the 36th prime number, the previous is 149, with which it comprises a twin prime"
+152,the sum of four consecutive primes (31 + 37 + 41 + 43)
+153,a narcissistic number
+154,"the smallest number which is palindromic in bases 6, 8, and 9"
+155,the sum of the primes between its smallest and largest prime factor
+156,the number of graphs with 6 vertices
+157,a repdigit in base 12 (111)
+158,"the number of digits in the decimal expansion of 100!, or the product of all the natural numbers up to and including 100"
+159,"the previous prime number is 157, and the next is 163"
+160,"the sum of the first 11 primes, as well as the sum of the cubes of the first three primes"
+161,a hexagonal pyramidal number
+162,the smallest number that can be written as the sum of of 4 positive squares in 9 ways
+163,a strong prime in the sense that it is greater than the arithmetic mean of its two neighboring primes
+164,"the sum of two squares, 102 + 82"
+165,"the midpoint of the n^{th} larger prime and n^{th} smaller prime, for 1 = n = 6"
+166,the number of monotone Boolean functions of 4 variables
+167,the smallest number whose 4^{th} power begins with 4 identical digits
+168,"the order of the group PSL(2,7), the second smallest nonabelian simple group"
+169,the 7^{th} Pell number
+170,the smallest n for which φ(n) and σ(n) are both square(64 and 324 respectively)
+171,an undulating number
+172,a repdigit in base 6 (444)
+173,"a square-free number, divisible by no perfect square"
+174,a square-free number
+175,the magic constant of the n×n normal magic square and n-Queens Problem for n = 7
+176,an octagonal pentagonal number
+177,the smallest magic constant for a 3 x 3 prime magic square
+178,"a semiprime, a product of two primes, namely 2 and 89"
+179,a strictly non-palindromic number
+180,the total number of degrees in a triangle
+181,a square-free number
+182,"a pronic number, oblong number or heteromecic number, a number which is the product of two consecutive integers (13 × 14)"
+183,a number of points in projective plane over the Galois field GF(13)
+184,"a refactorable number, or tau number, divisible by the count of its divisors"
+185,the number of conjugacy classes in the automorphism group of the 8 dimensional hypercube
+186,"a sphenic number, so the Möbius function returns -1 (and the Mertens function returns -4)"
+187,the smallest quasi-Carmichael number in base 7
+188,an untouchable number
+189,a centered cube number
+190,a Harshad number or Niven number divisible by the sum of its digits
+191,"a number n for which n, n+2, n+6, and n+8 are all prime"
+192,the sum of ten consecutive primes (5 + 7 + 11 + 13 + 17 + 19 + 23 + 29 + 31 + 37)
+193,the most accurate approximation of Euler's Number (e) such that both the numerator and the denominator are integers less than 200 (approx
+194,the smallest Markov number that is neither a Fibonacci number nor a Pell number
+195,a square-free number
+196,a square number (142)
+197,a Keith or repfigit number
+198,"a Harshad number, divisible by the sum of its digits"
+199,a centered 33-gonal number
+200,the smallest number which can not be made prime by changing one of its digits
+201,a Harshad number in base 10
+202,"a Smith number in base 10, because its factorization is 2 × 101, and 2 + 0 + 2 = 2 + 1 + 0 + 1 = 4"
+203,the 6^{th} Bell number
+204,the square root of a triangular number
+205,5 x 41
+206,the smallest number whose English name contains all five vowels exactly once
+207,a Wedderburn-Etherington number
+208,the sum of the squares of the first five primes
+209,a highly cototient number
+210,"also a pentatope number, a pronic number, a Harshad number, and an untouchable number"
+211,"a primorial prime, sum of three consecutive primes (67 + 71 + 73), Chen prime, centered decagonal prime, and self prime"
+213,the number of perfect squared rectangles of order 13
+214,a composite number and a 37-gonal number
+215,a composite number and a semiprime
+216,the smallest cube that can be written as the sum of 3 cubes
+217,a Kaprekar constant in base 2
+218,the number of digraphs with 4 vertices
+219,"the number of space groups, not including handedness"
+220,"a tetrahedral number, the sum of the first ten triangular numbers"
+221,the number of Hamiltonian planar graphs with 7 vertices
+222,the number of lattices on 8 unlabeled nodes
+223,the smallest prime p which has more primitive roots below p/2 than above p/2
+224,"the Entringer number E(6,3)"
+225,the sum of four consecutive primes (47 + 53 + 59 + 61)
+226,"a tetrahedral number, the sum of the first ten triangular numbers"
+227,also a regular prime
+228,the sum of four consecutive primes (47 + 53 + 59 + 61)
+229,"a regular prime, a long prime, a twin prime (with 227), a cousin prime, and a sexy prime"
+230,"the number of space groups, including handedness"
+231,the number of partitions of 16
+232,"a composite number, with its divisors being 2, 5, 10, 23, 46, and 115"
+233,"the 13th Fibonacci number, being the sum of 89 and 144"
+234,the number of ways to stack 12 pennies in a line so that each penny lies on the table or on two pennies
+235,"the concatenation of the base 10 representations of the first three primes, and thus it is a Smarandache–Wellin number"
+236,the number of possible positions in Othello after 2 moves by both players
+237,"a composite number, with its divisors being 2, 5, 10, 23, 46, and 115"
+238,the number of connected partial orders on 6 unlabeled elements
+239,the largest number that cannot be written as a sum of 8 or fewer cubes
+240,the smallest number with 20 divisors
+241,a repdigit in base 15 (111)
+242,"the smallest n for which n, n+1, n+2, and n+3 have the same number of divisors"
+243,the largest 3-digit number that is a fifth power (35)
+244,the smallest number (besides 2) that can be written as the sum of 2 squares or the sum of two 5^{th} powers
+245,a stella octangula number
+246,_{9}C_{2} + _{9}C_{4} + _{9}C_{6}
+247,the smallest possible difference between two integers that together contain each digit exactly once
+248,"the smallest number n>1 for which the arithmetic, geometric, and harmonic means of f(n) and s(n) are all integers"
+249,the index of a prime Woodall number
+250,the smallest multi-digit number so that the sum of the squares of its prime factors equals the sum of the squares of its digits
+251,also sum of three consecutive primes (79 + 83 + 89) and sum of seven consecutive primes (23 + 29 + 31 + 37 + 41 + 43 + 47)
+252,the 5^{th} central binomial coefficient
+253,the smallest non-trivial triangular star number
+254,the smallest multi-digit composite number all of whose proper divisors contain the digit 2
+255,"a repdigit in base 2 (11111111) in base 4 (3333), and in base 16 (FF)"
+256,the largest 3-digit number that is zenzizenzizenzic (see the 8th powers)
+257,"also an irregular prime, and a long prime (in base 10) and a balanced prime"
+258,a value of n so that n(n+9) is a palindrome
+260,the constant of an 8×8 magic square
+261,the number of essentially different ways to dissect a 16-gon into 7 quadrilaterals
+262,the 5^{th} meandric number and the 9^{th} open meandric number
+263,"an irregular prime, an Eisenstein prime, a long prime, a Chen prime, a Gaussian prime, a happy prime, a sexy prime, a safe prime, and a Higgs prime"
+264,the largest known number whose square is undulating
+265,the number of derangements of 6 items
+266,"the Stirling number of the second kind S(8,6)"
+267,the number of planar partitions of 12
+268,the smallest number whose product of digits is 6 times the sum of its digits
+269,the number of 6-octs
+270,a Harshad number in base 10
+271,the sum of the coprime counts for the first 29 integers is 270
+272,the sum of the coprime counts for the first 29 integers is 270
+274,"the Stirling number of the first kind s(6,2)"
+275,the number of partitions of 28 in which no part occurs only once
+276,the sum of twelve consecutive prime numbers (5 + 7 + 11 + 13 + 17 + 19 + 23 + 29 + 31 + 37 + 41 + 43)
+277,"the fifty-ninth prime number, following 271 and preceding 281"
+278,the closest integer to 6^{p}
+279,the maximum number of 8^{th} powers needed to sum to any number
+280,"the number of ways 18 people around a round table can shake hands in a non-crossing way, up to rotation"
+281,the sum of the first 14 primes
+282,the number of planar partitions of 9
+285,the number of binary rooted trees with 13 vertices
+286,the number of rooted trees with 9 vertices
+287,the sum of consecutive primes in 3 different ways
+288,the smallest non-palindrome non-square that when multiplied by its reverse is a square
+291,the largest number that is not the sum of distinct non-trivial powers
+292,the number of ways to make change for a dollar
+293,the number of ways to stack 20 boxes in a line so that each box lies on the table or on a box next to 2 boxes
+294,the number of planar 2-connected graphs with 7 vertices
+295,a structured deltoidal hexacontahedral number
+296,the number of partitions of 30 into distinct parts
+298,a value of n so that n(n+3) is a palindrome
+299,the maximum number of regions a cube can be cut into with 12 cuts
+300,the largest possible score in bowling
+301,a 6-hyperperfect number
+302,the number of ways to play the first 3 moves in Checkers
+303,the number of bipartite graphs with 8 vertices
+304,a primitive semiperfect number
+305,an hexagonal prism number
+306,the number of 5-digit triangular numbers
+307,a non-palindrome with a palindromic square
+308,a heptagonal pyramidal number
+309,the smallest number whose 5^{th} power contains every digit at least once
+313,the number of intersections when all the diagonals of a regular dodecagon are drawn
+314,the smallest number that can be written as the sum of of 3 positive distinct squares in 6 ways
+315,(4+3) × (4+1) × (4+5)
+317,the number of binary 4×4 matrices up to permutations of rows and columns
+318,the number of unlabeled partially ordered sets of 6 elements
+319,the smallest number with the property that the partition with the largest product does not have a maximum number of parts
+320,the maximum determinant of a binary 10×10 matrix
+322,the 12^{th} Lucas number
+323,the smallest composite number n that divides the (n+1)^{st} Fibonacci number
+324,the largest possible product of positive integers with sum 16
+325,a 3-hyperperfect number
+326,the number of permutations of some subset of 5 elements
+327,"the largest number n so that n, 2n, and 3n together contain every digit from 1-9 exactly once"
+329,the number of forests with 10 vertices
+331,both a centered pentagonal number and a centered hexagonal number
+332,the number of 2-connected graphs with 7 vertices
+333,the number of 7-hexes
+334,the number of trees on 13 vertices with diameter 7
+335,the number of degree 12 irreducible polynomials over GF(2)
+337,the number of different resistances that can be created in a circuit of 8 equal resistors
+338,the smallest number for which both the number of divisors and the sum of its prime factors is a perfect number
+339,the number of ways to divide 5 black and 5 white beads into piles
+340,a value of n for which n!
+341,the smallest pseudoprime in base 2
+342,the number of inequivalent binary linear codes of length 8
+343,a strong Friedman number
+344,the smallest number that can be written as the sum of a cube and a 7^{th} power in more than one way
+345,half again as large as the sum of its proper divisors
+348,the smallest number whose 5^{th} power contains exactly the same digits as another 5^{th} power
+349,"a Tetranacci-like number starting from 1, 1, 1, and 1"
+350,"the Stirling number of the second kind S(7,4)"
+351,the smallest number so that it and the surrounding numbers are all products of 4 or more primes
+352,the number of different arrangements of 9 non-attacking queens on an 9×9 chessboard
+353,the smallest number whose 4^{th} power can be written as the sum of four 4^{th} powers
+354,the sum of the first four 4^{th} powers
+355,the number of labeled topologies with 4 elements
+356,the smallest happy number of height 6
+360,the number of degrees in a circle
+361,the number of intersections on a Go board
+363,a perfect totient number
+365,the smallest number that can be written as a sum of consecutive squares in more than 1 way
+366,the number of days in a leap year
+367,the largest number whose square has strictly increasing digits
+368,the number of ways to tile a 4×15 rectangle with the pentominoes
+369,the number of octominoes
+370,a narcissistic number
+371,a narcissistic number
+372,a hexagonal pyramidal number
+374,the smallest number that can be written as the sum of 3 squares in 8 ways
+375,a truncated tetrahedral number
+376,an automorphic number
+377,the 14^{th} Fibonacci number
+378,the maximum number of regions a cube can be cut into with 13 cuts
+379,a value of n for which one more than the product of the first n primes is prime
+380,"the number of necklaces possible with 13 beads, each being one of 2 colors"
+381,a Kaprekar constant in base 2
+382,the smallest number n with s(n) = s(n+3)
+383,the number of Hamiltonian graphs with 7 vertices
+385,the number of partitions of 18
+386,the number of regions the complex plane is cut into by drawing lines between all pairs of 11^{th} roots of unity
+387,the smallest number with sort-then-add persistence of 10
+388,the maximum value of n so that there exist 6 denominations of stamps so that every postage from 1 to n can be paid for with at most 6 stamps
+389,the smallest prime so that it and the next 3 primes are all equal to 1 (mod 4)
+390,the number of partitions of 32 into distinct parts
+392,a Kaprekar constant in base 5
+393,the 7^{th} central trinomial coefficient
+396,the number of 3×3 sliding puzzle positions that require exactly 11 moves to solve starting with the hole in a corner
+398,the number of integers with complexity 22
+399,a Lucas-Carmichael number
+401,the number of connected planar Eulerian graphs with 9 vertices
+402,the number of graphs with 8 vertices and 9 edges
+403,the product of two primes which are reverses of each other
+404,the number of sided 10-hexes with holes
+405,a pentagonal pyramidal number
+406,the number of ways to tile a 3×17 rectangle with 3×1 rectangles
+407,a narcissistic number
+408,the 8^{th} Pell number
+409,the number of graphs with 8 vertices with clique number 2
+410,the smallest number that can be written as the sum of 2 distinct prime powers in 2 ways
+411,a member of the Fibonacci-type sequence starting with 1 and 4
+412,"the number of subsets of {1,2,3,...,11} that have a sum divisible by 5"
+413,a structured hexagonal diamond number
+414,"a value of n for which n^{4}, n^{5}, n^{6}, and n^{7} have the same digit sum"
+415,"the 10^{th} Iccanobif number, where each term is the reverse of the sum of the previous two numbers"
+416,the number of subsets of the 15^{th} roots of unity that add to a real number
+417,the smallest number so that it and the next 3 numbers have different numbers of distinct prime factors
+419,the number of ways to divide a 6×6 grid of points into two sets using a straight line
+420,the smallest number divisible by 1 through 7
+421,the number of commutative monoids of order 6
+422,the smallest number whose 8^{th} power has 21 digits
+423,a number that does not have any digits in common with its cube
+425,"the number of subsets of {1,2,3,...,11} that have an integer average"
+426,a stella octangula number
+427,a value of n for which n!
+429,the 7^{th} Catalan number
+430,"the number of necklaces possible with 6 beads, each being one of 4 colors"
+431,the index of a prime Fibonacci number
+433,the index of a prime Fibonacci number
+434,the smallest composite value of n for which s(n) + 2 = s(n+2)
+435,the number of ordered partitions of 16 into distinct parts
+436,the smallest number whose cube contains four 8's
+439,the smallest prime where inserting the same digit between every pair of digits never yields another prime
+440,the number of permutations of 12 items that fix 9 elements
+441,the smallest square which is the sum of 6 consecutive cubes
+442,the number of planar partitions of 13
+443,a value of n for which s(n) is a repdigit
+444,the largest known n for which there is a unique integer solution to a_{1}+ ... +a_{n} = (a_{1})...(a_{n})
+446,the smallest number that can be written as the sum of 3 distinct squares in 8 ways
+447,the smallest number of convex quadrilaterals formed by 15 points in general position
+448,the number of 10-iamonds
+450,the number of 13-iamonds with holes
+451,the smallest number whose reciprocal has period 10
+452,the closest integer to 7^{p}
+453,"the only number n so that n, 2n, and 6n together contain every digit exactly once"
+454,the largest number known that cannot be written as a sum of 7 or fewer cubes
+456,the number of tournaments with 7 vertices
+457,the index of a prime Euclid number
+458,a number that does not have any digits in common with its cube
+459,the smallest number n for which reverse(n) - n contains the same digits as n
+461,the number of ways to stack 18 pennies in contiguous rows so that each penny lies on the table or on two pennies
+463,the smallest prime so that it and the next 6 primes are all equal to 3 (mod 4)
+464,the maximum number of regions space can be divided into by 12 spheres
+465,a Kaprekar constant in base 2
+469,a value of n for which n!
+471,the smallest number with the property that its first 4 multiples contain the digit 4
+472,the number of ways to tile a 5×5 square with integer-sided squares
+473,the largest known number whose square and 4^{th} power use different digits
+474,a member of the Fibonacci-type sequence starting with 1 and 8
+476,"the number of different products of subsets of the set {1, 2, 3, ... 11}"
+477,the smallest number whose cube contains four 3's
+478,the 7^{th} Pell-Lucas number
+479,the number of sets of distinct positive integers with mean 6
+480,the smallest number which can be written as the difference of 2 squares in 8 ways
+481,the number of conjugacy classes in the automorphism group of the 10 dimensional hypercube
+482,a number whose square and cube use different digits
+483,the last 3-digit string in the decimal expansion of p
+484,a palindrome in base 3 and in base 10
+485,the number of categories with 6 morphisms and 2 objects
+487,the number of Hadamard matrices of order 28
+489,an octahedral number
+490,the number of partitions of 19
+491,the smallest number n so that the largest prime factors of the numbers n through n+4 decrease
+493,a Lucas 7-step number
+494,the number of unlabeled distributive lattices with 14 elements
+495,the Kaprekar constant for 3-digit numbers
+496,the 3^{rd} perfect number
+497,the number of graphs with 8 edges
+498,"the number of necklaces possible with 8 beads, each being one of 3 colors"
+499,the number of ways to place 26 points on a 13×13 grid so that no 3 points are on a line
+500,the number of planar partitions of 10
+501,the number of partitions of 5 items into ordered lists
+503,the smallest prime which is the sum of the cubes of the first few primes
+505,_{10}C_{5} + _{10}C_{0} + _{10}C_{5}
+506,the sum of the first 11 squares
+507,the number of rooted ternary trees with 10 vertices
+509,the index of a prime Fibonacci number
+510,the number of binary rooted trees with 14 vertices
+512,the cube of the sum of its digits
+513,the number of conjugacy classes of the alternating group A_{22}
+514,the smallest number whose cube begins with 13579
+515,the number of graphs on 6 vertices with no isolated vertices
+516,the number of partitions of 32 in which no part occurs only once
+518,5^{1} + 1^{2} + 8^{3}
+519,the number of trees on 15 vertices with diameter 5
+520,the number of ways to place 2 non-attacking kings on a 6×6 chessboard
+521,the 13^{th} Lucas number
+522,the number of ways to place a non-attacking white and black pawn on a 6×6 chessboard
+523,the smallest prime that is followed by 17 composite numbers
+524,the number of 6-kings
+525,a hexagonal pyramidal number
+526,the number of ways to cut a 8×8 chessboard into 2 pieces with equal areas with a cut that only travels up and right
+527,the smallest number n for which there do not exist 4 smaller numbers so that a_{1}!
+529,the smallest number n so that the continued fraction for n/k contains no 2's for any 1 = k = n
+530,the sum of the first 3 perfect numbers
+531,the smallest number with the property that its first 4 multiples contain the digit 1
+532,a hendecagonal pyramidal number
+533,the number of degree sequences for graphs with 5 vertices
+535,a palindrome whose f(n) is also palindromic
+536,the number of solutions of the stomachion puzzle
+538,the 10^{th} open meandric number
+539,the number of multigraphs with 5 vertices and 9 edges
+540,divisible by its reverse
+541,the number of orderings of 5 objects with ties allowed
+542,a member of the Fibonacci-type sequence starting with 3 and 8
+543,a number whose square and cube use different digits
+544,"the generalized Catalan number C(14,3)"
+547,"the smallest number that can not be written using 11 copies of 11 and the operations +, –, ×, and ÷"
+548,the maximum number of 9^{th} powers needed to sum to any number
+550,a pentagonal pyramidal number
+551,the number of trees with 12 vertices
+552,the number of prime knots with 11 crossings
+553,a Huay rhombic dodecahedral number
+554,the number of self-dual planar graphs with 20 edges
+559,a centered cube number
+561,the smallest Carmichael number
+562,the maximum number of regions a circle can be cut into by joining 11 points on the circumference with straight lines
+563,the largest known Wilson prime
+564,the number of 13-ominoes with a horizontal or vertical line of symmetry
+565,a structured truncated octahedral number
+566,the number of ways to place 24 points on a 12×12 grid so that no 3 points are on a line
+568,the smallest number whose 7^{th} power can be written as the sum of seven 7^{th} powers
+569,"the smallest number n for which the concatenation of n, (n+1), ... (n+30) is prime"
+570,the product of all the prime palindromic Roman numerals
+571,the index of a prime Fibonacci number
+572,the smallest number which has equal numbers of every digit in bases 2 and 3
+574,the maximum number of pieces a torus can be cut into with 14 cuts
+575,a palindrome that is one less than a square
+576,the number of 4×4 Latin squares
+578,the number of graphs with 7 vertices with clique number 3
+579,the number of graphs with 7 vertices that have chromatic number 3
+580,the 6^{th} central quadrinomial coefficient
+582,the number of antisymmetric relations on a 5 element set
+583,the smallest number whose reciprocal has period 26
+584,"the number of ways to color the vertices of a triangle with 12 colors, up to rotation"
+585,"a palindrome in base 2, base 8, and in base 10"
+586,the smallest number that appears in its factorial 6 times
+587,the smallest number whose digit sum is larger than that of its cube
+588,the number of possible rook moves on a 7×7 chessboard
+589,a centered tetrahedral number
+590,a value of n for which f(n) + f(n+1) divides s(n) + s(n+1)
+591,the number of ways to stack 23 boxes in a line so that each box lies on the table or on a box next to 2 boxes
+594,1^{5} + 2^{9} + 3^{4}
+595,the number of ways to tile a 3×18 rectangle with 3×1 rectangles
+596,the number of Hamiltonian cycles of a 4×9 rectangle graph
+597,a value of n for which n!!!
+598,5^{1} + 9^{2} + 8^{3}
+599,the smallest number whose digits add to 23
+601,the location of the first occurrence of 3 consecutive zeroes in the decimal digits of p
+603,"the smallest number n so that n, n+1, and n+2 are all the product of a prime and the square of a prime"
+606,the first non-trivial number that is both 11-gonal and centered 11-gonal
+607,the exponent of a Mersenne prime
+608,a number that does not have any digits in common with its cube
+609,a strobogrammatic number
+610,the smallest Fibonacci number that begins with 6
+612,a number whose square and cube use different digits
+613,the index of a prime Lucas number
+614,the smallest number that can be written as the sum of 3 squares in 9 ways
+615,"the trinomial coefficient T(10,6)"
+617,1!^{2} + 2!^{2} + 3!^{2} + 4!^{2}
+618,the number of ternary square-free words of length 15
+619,a strobogrammatic prime
+620,the number of sided 7-hexes
+621,the number of ways to 9-color the faces of a tetrahedron
+623,the number of inequivalent asymmetric Ferrers graphs with 23 points
+624,the smallest number with the property that its first 5 multiples contain the digit 2
+625,an automorphic number
+626,a palindrome in base 5 and in base 10
+627,the number of partitions of 20
+628,the sum of the squares of 4 consecutive primes
+630,"a triangular number, 3 times a triangular number, and 6 times a triangular number"
+632,the number of triangles formed by connecting the diagonals of a regular octagon
+633,the smallest number n whose 5^{th} root has a decimal part that begins with the digits of n
+634,a number n whose 5^{th} root has a decimal part that begins with the digits of n
+635,a number n whose 5^{th} root has a decimal part that begins with the digits of n
+636,a number n whose 5^{th} root has a decimal part that begins with the digits of n
+638,the number of fixed 5-kings
+639,a number n whose 5^{th} root has a decimal part that begins with the digits of n
+641,the smallest prime factor of 2^{2^{5}}+1
+642,the smallest number with the property that its first 6 multiples contain the digit 2
+643,the largest prime factor of 123456
+645,the largest n for which 1+2+3+ ... +n = 1^{2}+2^{2}+3^{2}+ ... +k^{2} for some k
+646,the number of connected planar graphs with 7 vertices
+648,the smallest number whose decimal part of its 6^{th} root begins with the digits 1-9 in some order
+649,the smallest number n so that n^{2} is 1 more than 13 times a square
+650,the sum of the first 12 squares
+652,the only known non-perfect number whose number of divisors and sum of smaller divisors are perfect
+653,the only known prime for which 5 is neither a primitive root or a quadratic residue of 4n^{2}+1
+656,a palindrome in base 3 and in base 10
+657,the number of ways to tile a 4×22 rectangle with 4×1 rectangles
+658,the number of triangles of any size contained in the triangle of side 13 on a triangular grid
+659,an Eisenstein-Mersenne prime
+660,the order of a non-cyclic simple group
+661,the largest prime factor of 8!
+662,"the index of the smallest triangular number that contains the digits 1, 2, 3, 4, and 5"
+663,"the generalized Catalan number C(15,3)"
+664,a value of n so that n(n+7) is a palindrome
+665,a member of the Fibonacci-type sequence starting with 1 and 4
+666,the largest rep-digit triangular number
+667,the maximal number of regions into which 36 lines divide a plane
+668,the number of legal pawn moves in Chess
+669,the number of unsymmetrical ways to dissect a regular 12-gon into 10 triangles
+670,an octahedral number
+671,a rhombic dodecahedral number
+672,a multi-perfect number
+673,"a Tetranacci-like number starting from 1, 1, 1, and 1"
+675,the smallest order for which there are 17 groups
+676,the smallest palindromic square number whose square root is not palindromic
+677,the closest integer to 11^{e}
+678,a member of the Fibonacci-type sequence starting with 1 and 7
+679,the smallest number with multiplicative persistence 5
+680,the smallest tetrahedral number that is also the sum of 2 tetrahedral numbers
+682,_{11}C_{6} + _{11}C_{8} + _{11}C_{2}
+684,the sum of 3 consecutive cubes
+686,the number of partitions of 35 in which no part occurs only once
+687,the closest integer to 8^{p}
+689,the smallest number that can be written as the sum of 3 distinct squares in 9 ways
+690,"the smallest number that can not be written as the sum of a triangular number, a cube, and a Fibonacci number"
+691,the smallest prime p for which x^{5} = x^{4} + x^{3} + x^{2} + x + 1 (mod p) has 5 solutions
+692,a number that does not have any digits in common with its cube
+694,the number of different arrangements (up to rotation and reflection) of 7 non-attacking rooks on a 7×7 chessboard
+695,the maximum number of pieces a torus can be cut into with 15 cuts
+696,a palindrome n so that n(n+8) is also palindromic
+697,a 12-hyperperfect number
+698,3^{2} + 4^{3} + 5^{4}
+699,a value of n for which |cos(n)| is smaller than any previous integer
+700,the number of symmetric 8-cubes
+701,1^{0} + 2^{1} + 3^{2} + 4^{3} + 5^{4}
+704,the number of sided octominoes
+705,the smallest Lucas pseudoprime
+707,the smallest number whose reciprocal has period 12
+708,the maximum value of n so that there exist 4 denominations of stamps so that every postage from 1 to n can be paid for with at most 12 stamps
+709,the number of connected planar graphs with 9 edges
+710,the number of connected graphs with 9 edges
+711,the name of a chain of convenience stores
+712,the largest number known that does not have any digits in common with its 8^{th} power
+713,the number of commutative monoids of order 7 with 4 idempotents
+714,the smallest number which has equal numbers of every digit in bases 2 and 5
+716,the smallest number whose cube contains four 6's
+717,a palindrome in base 2 and in base 10
+718,the number of unlabeled topologies with 6 elements
+719,the number of rooted trees with 10 vertices
+721,the smallest number which can be written as the difference of 2 cubes in 2 ways
+722,the sum of the 4^{th} powers of the first 3 primes
+724,the number of different arrangements of 10 non-attacking queens on an 10×10 chessboard
+726,the number of 4-step self-avoiding walks on the cubic lattice
+728,the smallest number n where n and n+1 are both products of 5 or more primes
+730,the number of connected bipartite graphs with 9 vertices
+731,the number of planar partitions of 14
+732,1^{7} + 2^{6} + 3^{5} + 4^{4} + 5^{3} + 6^{2} + 7^{1}
+733,the sum of the digits of 4^{4^{4}}
+734,the smallest number that can be written as the sum of 3 distinct non-zero squares in 10 ways
+735,the smallest number that is the concatenation of its distinct prime factors
+736,a strong Friedman number
+740,the number of self-avoiding walks of length 8
+741,the number of multigraphs with 6 vertices and 8 edges
+742,the smallest number that is one more than triple its reverse
+743,the number of independent sets of the graph of the 4-dimensional hypercube
+744,the number of perfect squared rectangles of order 14
+745,the smallest number whose square begins with three 5's
+746,1^{7} + 2^{4} + 3^{6}
+748,the number of 3×3 sliding puzzle positions that require exactly 12 moves to solve starting with the hole in a corner
+749,the number of ways to divide a 7×7 grid of points into two sets using a straight line
+750,"the Stirling number of the second kind S(10,8)"
+751,the index of a prime Woodall number
+752,the number of conjugacy classes in the automorphism group of the 11 dimensional hypercube
+753,the smallest number whose cube contains 4 consecutive 7's
+755,the number of trees on 14 vertices with diameter 6
+756,the maximum number of regions space can be divided into by 14 spheres
+757,the smallest number whose reciprocal has a period of 27
+759,the number of octads in the large Witt design
+760,the number of partitions of 37 into distinct parts
+762,the starting location of 999999 in the decimal expansion of p
+763,the smallest number whose 4^{th} power contains every digit at least once
+764,the number of 8×8 symmetric permutation matrices
+765,a Kaprekar constant in base 2
+766,the number of series-reduced planted trees with 9 leaves
+767,the largest n so that n^{2} = _{m}C_{0} + _{m}C_{1} + _{m}C_{2} + _{m}C_{3} has a solution
+768,"the number of subsets of {1,2,3,...,12} that have an integer average"
+769,the total number of digits of all binary numbers of length 1-7
+770,the number of digits of the 15^{th} perfect number
+771,the number of intersections when all the diagonals of a regular 14-gon are drawn
+773,the smallest odd number n so that n+2^{k} is composite for all k<n
+775,the smallest number whose 9^{th} power has 26 digits
+777,a repdigit in base 6 and in base 10
+778,the number of ways a 5×1 rectangle can be surrounded by 5×1 rectangles
+780,(5+7) × (5+8) × (5+0)
+782,a number whose sum of divisors is a 4^{th} power
+783,the number of 11-ominoes that tile the plane by translation
+784,the sum of the first 7 cubes
+786,the largest known n for which _{2n}C_{n} is not divisible by the square of an odd prime
+787,a palindrome in base 3 and in base 10
+788,the smallest of 6 consecutive numbers divisible by 6 consecutive primes
+791,the smallest number n where either it or its neighbors are divisible by the numbers from 1 to 12
+792,the number of partitions of 21
+793,one less than twice its reverse
+794,1^{6} + 2^{6} + 3^{6}
+795,a number whose sum of divisors is a 4^{th} power
+797,the number of functional graphs on 9 vertices
+798,the number of ternary square-free words of length 16
+799,the smallest number whose sum of digits is composite and whose sum of digits cubed is prime
+802,the number of isomers of C_{13}H_{28}
+803,a value of n for which s(n) is a repdigit
+804,a value of n for which 2f(n) = f(n+1)
+805,the number of possible positions in Checkers after 4 moves
+806,"not the sum of a square, a cube, a 4^{th} power, and a 5^{th} power"
+808,a strobogrammatic number
+809,a member of the Fibonacci-type sequence starting with 1 and 5
+810,"a value of n for which n-1 and n+1 are twin primes, and so are 2n-1 and 2n+1"
+811,the smallest prime factor of 24!
+812,the number of triangles of any size contained in the triangle of side 14 on a triangular grid
+814,a value of n so that n(n+5) is a palindrome
+815,a Lucas 3-step number
+818,the number of ways to dissect a 12-gon using non-crossing diagonals into polygons with an even number of sides
+819,the smallest number so that it and its successor are both the product of 2 primes and the square of a prime
+821,"a number n for which n, n+2, n+6, and n+8 are all prime"
+822,the number of planar graphs with 7 vertices
+823,a number that does not have any digits in common with its cube
+825,the number of ways to legally add 2 sets of parentheses to a product of 9 variables
+827,the number of asymmetric trees with 11 vertices
+829,a value of n for which p(n) is the product of the digits of n
+831,the number of monic polynomials of degree 9 with integer coefficients whose complex roots are all in the unit disk
+832,the maximum number of pieces a torus can be cut into with 16 cuts
+833,a centered octahedral number
+834,the maximum number of regions a cube can be cut into with 17 cuts
+835,the 9^{th} Motzkin number
+836,a non-palindrome with a palindromic square
+840,the smallest number divisble by 1 through 8
+841,a square that is also the sum of 2 consecutive squares
+842,the ratio of Fibonacci numbers
+843,the 14^{th} Lucas number
+844,the smallest number so that it and the next four numbers are squareful numbers
+847,the sum of the digits of the 14^{th} Mersenne prime
+848,the number of inequivalent binary linear codes of length 9
+849,a value of n for which s(n-1) = s(n+1)
+850,the number of trees on 14 vertices with diameter 7
+851,the number of ordered partitions of 18 into distinct parts
+852,the number of 6-colorable connected graphs with 7 vertices
+853,the number of connected graphs with 7 vertices
+855,the smallest number which is the sum of 5 consecutive squares or 2 consecutive cubes
+856,a member of the Fibonacci-type sequence starting with 1 and 9
+857,a value of n for which f(n) = f(n-1) + f(n-2)
+858,the smallest palindrome with 4 different prime factors
+859,the number of planar partitions of 11
+862,a number whose sum of divisors is a 4^{th} power
+863,a value of n so that n(n+6) is a palindrome
+864,the number of partitions of 38 into distinct parts
+866,the number of sided 10-iamonds
+867,the number of graphs with 8 vertices that have chromatic number 5
+869,the number of different resistances that can be created in a circuit of 9 equal resistors
+870,the sum of its digits and the cube of its digits
+872,a value of n for which n!
+874,the number of positive integer solutions to (1 + 1/a)(1 + 1/b)(1 + 1/c)(1 + 1/d)(1 + 1/e) = 2
+876,a dodecagonal pyramidal number
+877,the 7^{th} Bell number
+878,the number of 3×3 sliding puzzle positions that require exactly 29 moves to solve starting with the hole on a side
+879,a number n whose 5^{th} root has a decimal part that begins with the digits of n
+880,the number of 4×4 magic squares
+881,a number n whose 5^{th} root has a decimal part that begins with the digits of n
+882,the smallest number whose square begins with three 7's
+883,a number n whose 5^{th} root has a decimal part that begins with the digits of n
+884,a number n whose 5^{th} root has a decimal part that begins with the digits of n
+885,an enneagonal pyramidal number
+887,a value of n for which s(n) is a repdigit
+889,a Kaprekar constant in base 2
+891,the number of unlabeled distributive lattices with 15 elements
+892,the smallest integer ratio of a 13-digit number to its product of digits
+896,not the sum of 4 non-zero squares
+898,a member of the Fibonacci-type sequence starting with 2 and 5
+899,the product of twin primes
